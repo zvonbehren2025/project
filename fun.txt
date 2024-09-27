@@ -2,3 +2,4 @@ fun time
 programming is fun
 this class is very fun
 Boy oh boy do I love git
+github fun
